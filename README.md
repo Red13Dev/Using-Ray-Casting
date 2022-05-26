@@ -4,10 +4,10 @@ Spent 3 hours in a mental break down. was it worth it? No.
 # Modules:
 
    > Numpy - Literally did everything.                                                        
-   > Matplotlib - I used a plot from matplotlib to display the game.
-   > eyboard - for imput data.
-   > ime - didn't use this in the end.
-   > laysound - for background music.
+   > Matplotlib - I used a plot from matplotlib to display the game.                                                                                       
+   > Keyboard - for imput data.                                                                                                                                          
+   > Time - didn't use this in the end.                                                                                                                               
+   > Playsound - for background music.                                                                                                                            
 
 # What is Ray-Casting:
 
